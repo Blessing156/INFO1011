@@ -6,3 +6,5 @@ I like to read
 Informatics
 
 Computer
+
+Photography
